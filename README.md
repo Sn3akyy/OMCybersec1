@@ -39,8 +39,11 @@ During the pandemic, out of deep curiosity I developed a passion for cybersecuri
 </div>
 
 ## Certifications
--HackerU Cybersecurity (Red Team)
--INE / eLearnSecurity eJPT (Penetration Tester)
+
+| Certifications                                        
+|---------------------------------------------------------------------------
+| HackerU Cybersecurity (Red Team)
+| INE / eLearnSecurity eJPT (Penetration Tester)
 
 ## Projects
 - Pentesting
